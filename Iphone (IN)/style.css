@@ -1,0 +1,150 @@
+.container-fluid {
+    background-color: #1d1d1f;
+}
+
+.logo{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+
+.header-2 {
+    padding-left: 150px;
+    display: flex;
+}
+
+#a {
+    height: 75px;
+    width: 75px;
+}
+
+span {
+    padding-inline: 25px;
+    color: #bf4800;
+    font-size: 10px;
+}
+p {
+    font-size: 11px;
+}
+
+.iphone-14pro {
+    padding: 0 10px;
+}
+
+#ab {
+    padding-inline: 10px;
+}
+
+#aa {
+    padding-inline: 15px;
+}
+#ac {
+    padding-inline: 10px;
+}
+
+#aaa:hover, #aa:hover, #ab:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+.header3 {
+    background-color: #f5f5f7;
+    padding: 9px;
+}
+
+.Shop {
+    color: #0071e3;
+    padding-inline: 1px;
+}
+
+.Shop:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.shop2 {
+    letter-spacing: -0.01em;
+    padding-top: 10px;
+    padding-inline: 200px;
+    font-size: 0.75em;
+} 
+
+.new {
+    padding-left: 48%;
+    padding-top: 75px;
+    color: #6e6e73;
+    font-size: 20px;
+    letter-spacing: -0.01em;
+}
+
+h2 {
+    padding-left: 45%;
+    letter-spacing: -0.01em;
+}
+
+.ww {
+    padding-left: 40%;
+    letter-spacing: -0.01em;
+}
+
+.ss {
+    margin-left: 45%;
+    color: #6e6e73;
+    background: transparent;
+    border: 2px solid #6e6e73;
+    display: inline-block;
+    font-size: 15px;
+    width: 130px;
+    line-height: 2;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    border-radius: 20px;
+}
+.wq {
+    padding-left: 40%;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.buy {
+    margin-left: 42%;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    min-width: 20px;
+    padding: 8px 16px;
+    background: #0071e3;
+    color: #fff;
+    border-color: white;
+}
+
+.more {
+    padding-top: 15px;
+    padding-inline: 25px;
+    font-size: 25px;
+    color: #0071e3;
+    cursor: pointer;
+}
+
+.hi {
+    display: flex;
+}
+
+.more:hover {
+    text-decoration: underline;
+}
+
+.cd {
+    padding-top: 15px;
+    padding-left: 200px;
+}
